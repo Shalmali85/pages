@@ -9,3 +9,4 @@ public interface IPageRepository {
     public Page update(Page page, long id);
     public void delete(long id);
 }
+
